@@ -1,0 +1,23 @@
+.coursedesc{
+    color:white;
+    padding-top:10rem;
+    display: grid;
+    place-items: center;
+    align-content: center;
+    background-color: rgba(128, 128, 128, 0.281);
+    font-family: 'Times New Roman', sans-serif;
+}
+.coursedesc .intro{
+    padding-left: 15rem;
+    padding-right: 15rem;
+    text-align:center;
+    font-size: 30px;
+}
+.coursedesc .curr{
+    padding:10rem;
+    justify-content: center;
+    font-size: 30px;
+}
+.coursedesc .curr h1{
+    align-content: center;
+}
